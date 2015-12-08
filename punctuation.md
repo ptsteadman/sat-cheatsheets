@@ -6,9 +6,8 @@ There are four places where one uses a comma:
 
 1. Separating items in a list.
 
-  *Teachers commonly work many more hours than the official time they spend in
- school, typically preparing for class, grading exams, and performing other tasks
- outside the formally defined school day.*
+  *Teachers commonly work many hours outside of school, typically preparing 
+ for class, grading exams, and performing other tasks.*
 
 2. Before a conjunction (F.A.N.B.O.Y: for, and, nor, but, or, yet) joining two sentences.
 
