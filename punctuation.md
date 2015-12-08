@@ -48,7 +48,7 @@ details.
 A semi-colon joins two related complete sentences.  Two complete sentences can also be joined
 by a conjunction (F.A.N.B.O.Y) and a comma, or separated by a period.  
 
- *Patrick likes to eat candy, Daouda likes to eat cookies.*
+ *Patrick likes to eat candy; Daouda likes to eat cookies.*
  
 Join sentence fragments with a semi-colon, comma, or a comma and a conjunction. 
 
@@ -86,7 +86,8 @@ Examples:
 - the bus' bumper
 - the cat's meow
 
-Don't use an apostrophe when there isn't posession.
+Don't use an apostrophe when there isn't posession or a conjunction.  For example, don't use 
+an apostrophe just because a word is plural.
 
 *Many governments are oppressive.*
 
