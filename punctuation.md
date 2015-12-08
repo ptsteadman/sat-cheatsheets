@@ -52,7 +52,8 @@ by a conjunction (F.A.N.B.O.Y) and a comma, or separated by a period.
  
 Join sentence fragments with a semi-colon, comma, or a comma and a conjunction. 
 
-*My therapist tells me that fear is a normal. Legitimate response to genuine danger.* **fragment**
-*My therapist tells me that fear is a normal, legitimate response to genuine danger.* **complete sentence**
+*My therapist tells me that fear is a normal. Legitimate response to genuine danger.*  **fragment**
+
+*My therapist tells me that fear is a normal, legitimate response to genuine danger.*  **complete sentence**
 
 
