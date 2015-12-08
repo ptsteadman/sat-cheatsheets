@@ -56,4 +56,42 @@ Join sentence fragments with a semi-colon, comma, or a comma and a conjunction.
 
 *My therapist tells me that fear is a normal, legitimate response to genuine danger.*  **complete sentence**
 
+### Contractions
+
+A contraction is when two words are joined with an apostrophe `'`.
+
+Examples:
+
+- can not -> can't
+- will not -> won't
+- it is -> it's
+
+To determine if a contraction is used correctly, expand it, and see if it still makes sense.
+
+*It's time for class.* **correct**
+
+*The company staked it's robotics division’s future on using artificial intelligence.* **incorrect**
+
+*The company staked its robotics division’s future on using artificial intelligence.* **correct**
+
+### Possession
+
+An apostrophe is added to a word when it possesses another word, except in the case of `it`.  
+(Remember, `it's` expands to `it is`.)  The only other exception is certain common phrases like
+"shoe lace", "car door", etc: we don't say "shoe's lace", "car's door", etc.
+Examples:
+
+- Patrick's dog
+- the bus' bumper
+- the cat's meow
+
+Don't use an apostrophe when there isn't posession.
+
+*Many governments are oppressive.*
+
+### Dash Usage
+
+
+
+
 
