@@ -1,7 +1,7 @@
 # Punctuation
 
 The writing section tests the follow punctuation concepts: comma usage `,`,
-colon usage `:`, semicolon usage `;`, contractions `'`, possession `'`, and dash usage `-`.
+colon usage `:`, semi-colon usage `;`, contractions `'`, possession `'`, and dash usage `-`.
 
 ### Comma Usage
 
@@ -27,8 +27,17 @@ never become complacent.*
 There are two places where one uses a colon:
 
 1. Starting off a list.
+
 *New York City has five boroughs: Brooklyn, Manhattan, Queens, the Bronx, and
-Staten Island.  *
+Staten Island.*
+
+2. Joining a phrase with details about the phrase, in a way that emphasizes the
+details.
+
+*I was enchanted by the tiniest thing of all: the dachshund puppy.* 
+
+### Semi-colon Usage
+
 
 
 
