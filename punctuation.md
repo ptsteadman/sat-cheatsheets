@@ -45,6 +45,14 @@ details.
 
 ### Semi-colon Usage
 
+A semi-colon joins two related complete sentences.  Two complete sentences can also be joined
+by a conjunction (F.A.N.B.O.Y) and a comma, or separated by a period.  
 
+ *Patrick likes to eat candy, Daouda likes to eat cookies.*
+ 
+Join sentence fragments with a semi-colon, comma, or a comma and a conjunction. 
+
+*My therapist tells me that fear is a normal. Legitimate response to genuine danger.* **fragment**
+*My therapist tells me that fear is a normal, legitimate response to genuine danger.* **complete sentence**
 
 
