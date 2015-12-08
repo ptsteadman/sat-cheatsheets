@@ -62,9 +62,9 @@ A contraction is when two words are joined with an apostrophe `'`.
 
 Examples:
 
-- can not -> can't
-- will not -> won't
-- it is -> it's
+- can not > can't
+- will not > won't
+- it is > it's
 
 To determine if a contraction is used correctly, expand it, and see if it still makes sense.
 
@@ -78,7 +78,8 @@ To determine if a contraction is used correctly, expand it, and see if it still 
 
 An apostrophe is added to a word when it possesses another word, except in the case of `it`.  
 (Remember, `it's` expands to `it is`.)  The only other exception is certain common phrases like
-"shoe lace", "car door", etc: we don't say "shoe's lace", "car's door", etc.
+"shoe lace", "car door", etc: we don't say "shoe's lace", "car's door".
+
 Examples:
 
 - Patrick's dog
@@ -96,8 +97,8 @@ Dashes are used in the following situations:
 1. Separating a descriptive phrase.
 2. Introducing a change in tone.
 3. Presenting an explanation.  
-4. 
-5. If you see a dash, it should be paired with another dash, or the sentence should should end.
+
+If you see a dash, it should be paired with another dash, or the sentence should should end.
 
 *John was very excited to win the two concert tickets – it was the first time he had ever won a radio contest – and
 he knew exactly who he would bring.*
