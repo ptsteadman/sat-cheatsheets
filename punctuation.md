@@ -1,8 +1,5 @@
 # Punctuation
 
-The writing section tests the follow punctuation concepts: comma usage `,`,
-colon usage `:`, semi-colon usage `;`, contractions `'`, possession `'`, and dash usage `–`.
-
 ### Comma Usage
 
 There are four places where one uses a comma:
@@ -63,7 +60,6 @@ A contraction is when two words are joined with an apostrophe `'`.
 Examples:
 
 - can not > can't
-- will not > won't
 - it is > it's
 
 To determine if a contraction is used correctly, expand it, and see if it still makes sense.
@@ -84,7 +80,6 @@ Examples:
 
 - Patrick's dog
 - the bus' bumper
-- the cat's meow
 
 Don't use an apostrophe when there isn't posession or a conjunction.  For example, don't use 
 an apostrophe just because a word is plural.
@@ -99,7 +94,7 @@ Dashes are used in the following situations:
 2. Introducing a change in tone.
 3. Presenting an explanation.  
 
-If you see a dash, it should be paired with another dash, or the sentence should should end.
+If you see a dash, it should be paired with another dash, or the sentence should end.
 
 *John was very excited to win the two concert tickets – it was the first time he had ever won a radio contest – and
 he knew exactly who he would bring.*
