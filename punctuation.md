@@ -1,7 +1,7 @@
 # Punctuation
 
 The writing section tests the follow punctuation concepts: comma usage `,`,
-colon usage `:`, semi-colon usage `;`, contractions `'`, possession `'`, and dash usage `-`.
+colon usage `:`, semi-colon usage `;`, contractions `'`, possession `'`, and dash usage `–`.
 
 ### Comma Usage
 
@@ -91,7 +91,16 @@ Don't use an apostrophe when there isn't posession.
 
 ### Dash Usage
 
+Dashes are used in the following situations:
 
+1. Separating a descriptive phrase.
+2. Introducing a change in tone.
+3. Presenting an explanation.  
+4. 
+5. If you see a dash, it should be paired with another dash, or the sentence should should end.
+
+*John was very excited to win the two concert tickets – it was the first time he had ever won a radio contest – and
+he knew exactly who he would bring.*
 
 
 
