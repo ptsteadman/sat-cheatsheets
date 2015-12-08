@@ -25,7 +25,6 @@ giving more information about something.
  *Delta group, who made the biggest improvement on the first practice test, will
 never become complacent.*
 
-
 ### Colon Usage
 
 There are two places where one uses a colon:
@@ -81,7 +80,7 @@ Examples:
 - Patrick's dog
 - the bus' bumper
 
-Don't use an apostrophe when there isn't posession or a conjunction.  For example, don't use 
+Don't use an apostrophe where there isn't posession or a conjunction.  For example, don't use 
 an apostrophe just because a word is plural.
 
 *Many governments are oppressive.*
@@ -98,6 +97,3 @@ If you see a dash, it should be paired with another dash, or the sentence should
 
 *John was very excited to win the two concert tickets – it was the first time he had ever won a radio contest – and
 he knew exactly who he would bring.*
-
-
-
